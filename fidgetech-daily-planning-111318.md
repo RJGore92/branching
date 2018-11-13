@@ -7,8 +7,6 @@
 
 #### Please list the names of the lessons you are going to work on today:
 
-(remove or add more bullet points as needed)
-
 * 2.4 - Branching
 
 * 2.4 - More Branching (if time)
@@ -30,13 +28,7 @@
 
 #### Please list the names of the lessons you completed today:
 
-(remove or add more bullet points as needed)
-
-*
-
-*
-
-*
+* 2.4 Branching (Voter Information assignment completed)
 
 
 
@@ -44,8 +36,8 @@
 
 (remove or add more bullet points as needed)
 
-*
+* 2.4 Branching - Voter Information
 
-*
+* 2.4 Branching - Animal Wiki (HTML Initialized)
 
-*
+* 2.4 Branching - Amusement Park (HTML Initialized)
