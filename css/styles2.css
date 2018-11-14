@@ -1,0 +1,15 @@
+#dogWiki, #catWiki, #fishWiki, #alternateQuestion {
+  display: none;
+}
+
+.floatImgLeft {
+  float: left;
+  max-width: 300px;
+  max-height: 250px;
+}
+
+.floatImgRight {
+  float: right;
+  max-width: 300px;
+  max-height: 250px;
+}
