@@ -9,6 +9,41 @@
     <title>Branching: Amusement Park</title>
   </head>
   <body>
-
+    <div class="container">
+      <form id="riderHeightInfo">
+        <h5>To see what rides are available for you, please input your height below:</h5>
+        <label>
+          <input id="heightF" type="number" name="heightFeet" value="0" min="0">
+          Feet,
+        </label>
+        <label>
+          <input id="heightI" type="number" name="heightInches" value="0" min="0" max="11">
+          Inches
+        </label>
+        <button type="submit" class="btn">Show me the Rides</button>
+      </form>
+      <div class="rides">
+        <h5>Below are a list of rides that you are able to ride on.  Take note of the color coding guide for which rides are best for you.</h5>
+        <ul>
+          <li>Rides recommended for your height are highlighted in <span class="green-bg">green</span>.</li>
+          <li>Rides that your height can supervise but are not recommended to ride alone on are highlighted in <span class="blue-bg">blue</span>.</li>
+          <li>Rides that you cannot ride on without explicit supervision of an adult or proof of age are highlighted in <span class="yellow-bg">yellow</span>.</li>
+          <li>Rides that are not for your height regardless of age (be it too tall or too short) are highlighted <span class="red-bg">red</span>.</li>
+        </ul>
+        <hr>
+        <ul>
+          <li class="tall-ride">Rollercoaster: Journey to the Core</li>
+          <li class="tall-ride">Vertical Dropper: Piledriver</li>
+          <li class="above-average-ride"></li>
+          <li class="above-average-ride"></li>
+          <li class="average-ride"></li>
+          <li class="average-ride"></li>
+          <li class="below-average-ride"></li>
+          <li class="below-average-ride"></li>
+          <li class="short-ride"></li>
+          <li class="short-ride"></li>
+        </ul>
+      </div>
+    </div>
   </body>
 </html>

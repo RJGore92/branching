@@ -26,22 +26,12 @@
 
 #### Please list the names of the lessons you completed today:
 
-(remove or add more bullet points as needed)
-
-*
-
-*
-
-*
+* 2.4 - Branching (Assignment 2 completed)
 
 
 
 #### Please list the names of the projects you worked on today:
 
-(remove or add more bullet points as needed)
+* 2.4 Branching - Animal Wiki (completed)
 
-*
-
-*
-
-*
+* 2.4 Branching - Amusement Park (in progress)
