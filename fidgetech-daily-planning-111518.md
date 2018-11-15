@@ -20,7 +20,7 @@
 2. JavaScript Branching
 
 3. CSS based on form input
-  
+
 
 
 ## BEFORE YOU LEAVE:
@@ -28,22 +28,16 @@
 
 #### Please list the names of the lessons you completed today:
 
-(remove or add more bullet points as needed)
+* 2.4 Branching (completed)
 
-*
-
-*
-
-*
+* 2.4 More Branching (initialized)
 
 
 
 #### Please list the names of the projects you worked on today:
 
-(remove or add more bullet points as needed)
+* 2.4 Branching - Amusement Park (completed)
 
-*
+* 2.4 More Branching - Celebrity Dating Quiz (initialized HTML)
 
-*
-
-*
+* 2.4 More Branching - Political Meter (initialized HTML)

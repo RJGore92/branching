@@ -1,6 +1,6 @@
 # Epicodus Unit 2.4: Branching
 
-#### Unit assignments for Epicodus unit 2.4 in the Branching chapter, start date 11/13/2018
+#### Unit assignments for Epicodus unit 2.4 in the Branching chapter, start date 11/13/2018, completion date 11/15/2018
 
 #### By **Robert James "Jimmy" Gore**
 
