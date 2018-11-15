@@ -11,5 +11,9 @@
 }
 
 .red-bg {
-  background-color: FireBrick;
+  background-color: IndianRed;
+}
+
+.tooTall, .tooShort, .rides {
+  display: none;
 }
